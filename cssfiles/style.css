@@ -73,8 +73,10 @@ body {
 
       
 #mainbody {
+    margin-top: 10px;
     padding-top: 150px;
-    min-height: calc(150vh - 40px);
+    min-height: calc(170vh - 40px);
+    
   }
 
   h1 {
@@ -82,6 +84,7 @@ body {
     padding-bottom: 30px;
     border-bottom: 5px solid #dddddd;
     line-height: 49px;
+    
     
   }
 
@@ -101,4 +104,18 @@ body {
     background-color: #ffffff;
     
 }
+
+.row{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+
+.card-text{
+    background-color: #4f7db3;
+    text-align: center;
+    color: #ffffff;
+    font-size: 30px;
+}
+   
   
